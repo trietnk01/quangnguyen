@@ -1,0 +1,87 @@
+.ddsmoothmenu{
+  >ul{
+    >li{
+      >a{
+        font-family:$f_light;
+        font-size: 14px;
+        text-transform: uppercase;
+        background: transparent;
+        padding: 12px 15px;
+        border-right: 0;
+        background-repeat: no-repeat;
+        background-position:right center;
+        &:link,&:visited{
+          color: $mau;
+        }
+        &:hover,&.selected{
+          background: $mau_2;
+          color: #fff;
+          background-repeat: no-repeat;
+          background-position:right center;
+        }
+      }
+      &.menu-item-has-children{
+        >a{
+          &:hover{
+            background:$mau_2 !important;
+            color: #fff;
+            &:before{
+              background:$mau_2;
+
+            }
+          }
+        }
+      }
+      &.current-menu-item{
+        >a{
+          background:transparent;
+          color: $mau_1;
+          background-repeat: no-repeat;
+          background-position:right center;
+        }
+      }
+      &:not(:first-child){
+        >a{
+          &:after{
+            content: "";
+            display: block;
+            height: 6px;
+            width: 3px;
+            border-left: 1px solid #bbb;
+            border-right: 1px solid #bbb;
+            position: absolute;
+            top: 15px;
+            left: 0px;
+            z-index: -2;
+          }
+        }
+      }
+      >ul{
+        box-shadow: 0 2px 3px 1px rgba(0,0,0,0.2);
+        background-color: #fff !important;
+        >li{
+          >a{
+            display: block;
+            background: #fff;
+            color: $mau !important;
+            border-right: 0;
+            border-bottom:1px solid #ECF0F1;
+            width: 250px;
+            padding:10px 20px;
+            position: relative;
+            &:after{
+              content: "»";
+              position: absolute;
+              right: 10px;
+              top: 8px;
+              display: block;
+            }
+            &:hover{
+              background: #f2f2f2;
+            }
+          }
+        }
+      }
+    }
+  }
+}

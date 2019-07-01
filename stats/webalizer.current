@@ -1,0 +1,486 @@
+# Webalizer V2.23-05 Incremental Data - 07/01/2019 03:47:21
+2019 7 1 3 47 21
+350 239 31 62 14 17 7002685 207 25 0
+31 5 154 1 1
+350 239 7002685 31 207 25
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+154 138 5419464 35
+39 31 1099731 18
+152 68 464579 151
+5 2 18911 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+239
+0
+0
+0
+0
+0
+0
+0
+27
+16
+0
+0
+0
+0
+52
+0
+0
+0
+15
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/sitemap_index.xml
+0 1 26463424 2234 0 0
+/zaalbum-sitemap.xml
+0 1 26422928 3096 0 0
+/wp-content/themes/vidoco-theme/assets/normalize/normalize-4.2.0.css
+0 4 7954892334483844464 9604 0 0
+/zapayment_method-sitemap.xml
+0 1 26423232 906 0 0
+/wp-content/themes/vidoco-theme/assets/demo-js/scroll-top.js
+0 4 7954892334483844464 6048 0 0
+/wp-content/themes/vidoco-theme/assets/fontawesome/css/all.min.css
+0 3 7954892334483844464 160776 0 0
+/wp-content/themes/vidoco-theme/assets/simpleLightbox/simple-lightbox.min.js
+0 4 26444912 36068 0 0
+/wp-json/wp/v2/users/
+0 2 26474400 1160 0 0
+/wp-content/themes/vidoco-theme/assets/demo-js/custom.js
+0 4 7954892334483844464 23624 0 0
+/wp-content/themes/vidoco-theme/assets/select2/select2.min.css
+0 4 7954892334483844464 61100 0 0
+/wp-content/themes/vidoco-theme/assets/modalvideo/css/modal-video.min.css
+0 4 26447296 8280 0 0
+/za_category_payment_method-sitemap.xml
+0 1 26424448 771 0 0
+/post-sitemap.xml
+0 1 26423744 3873 0 0
+/author/admin/
+0 2 26475216 38174 0 0
+/zavideo-sitemap.xml
+0 1 26417392 5559 0 0
+/za_category_video-sitemap.xml
+0 1 26416944 746 0 0
+/zaykien-sitemap.xml
+0 1 26424320 1749 0 0
+/wp-content/themes/vidoco-theme/assets/demo-scss/style.css
+0 4 7954892334483844464 226856 0 0
+/wp-content/themes/vidoco-theme/assets/bootstrap-4/js/bootstrap.min.js
+0 4 7954892334483844464 223100 0 0
+/za_category_album-sitemap.xml
+0 1 26417056 746 0 0
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-5/
+0 1 26453552 29408 1 0
+/wp-content/themes/vidoco-theme/assets/counterup/jquery.counterup.min.js
+0 4 26430048 4296 0 0
+/za_category_ykien-sitemap.xml
+0 1 26423968 765 0 0
+/wp-content/themes/vidoco-theme/assets/counterup/waypoints.min.js
+0 4 7954892334483844464 32204 0 0
+/wp-content/themes/vidoco-theme/assets/jquery/jquery-ui.min.css
+0 4 3417494793430593121 123012 0 0
+/wp-content/themes/vidoco-theme/assets/demo-scss/pcss.css
+0 3 7954892334483844464 1744023 0 0
+/wp-content/themes/vidoco-theme/assets/demo-js/accounting.min.js
+0 4 7954892334483844464 12612 0 0
+/wp-content/themes/vidoco-theme/assets/simpleLightbox/simplelightbox.min.css
+0 4 26449568 12840 0 0
+/author-sitemap.xml
+0 1 26417648 736 0 0
+/wp-content/themes/vidoco-theme/assets/demo-js/owl-carousel-pro.js
+0 4 7954892334483844464 20696 0 0
+/wp-content/themes/vidoco-theme/assets/fonts/Roboto/Roboto-Bold.ttf
+0 3 14 512280 0 0
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-8/
+0 1 26452640 29408 1 0
+/category-sitemap.xml
+0 1 26417520 1256 0 0
+/wp-content/themes/vidoco-theme/assets/ddsmoothmenu/css/ddsmoothmenu.css
+0 4 26448928 28544 0 0
+/wp-content/themes/vidoco-theme/assets/jquery/jquery.matchHeight-min.js
+0 4 7238811150377889136 13484 0 0
+/wp-content/themes/vidoco-theme/assets/fonts/Roboto/Roboto-Light.ttf
+0 3 7 511260 0 0
+/chuyen-muc-album/album/
+0 1 26458128 30566 1 0
+/za_category-sitemap.xml
+0 1 26424192 746 0 0
+/wp-content/themes/vidoco-theme/assets/ddsmoothmenu/js/ddsmoothmenu.js
+0 4 7954892334483844464 164912 0 0
+/wp-login.php
+0 13 26476880 40948 1 1
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-4/
+0 1 26451712 29408 0 0
+/loai-san-pham/san-pham/feed/
+0 1 26426720 9546 1 0
+/xmlrpc.php
+0 13 26484176 5538 2 0
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-3/
+0 1 26451584 29408 0 0
+/wp-content/themes/vidoco-theme/assets/owlcarousel/owl.carousel.min.js
+0 4 7954892334483844464 171088 0 0
+/wp-admin/admin-post.php
+0 42 26480880 0 0 0
+/
+0 15 26436560 345303 2 0
+/wp-content/themes/vidoco-theme/assets/select2/select2.min.js
+0 4 7954892334483844464 271004 0 0
+/wp-content/themes/vidoco-theme/assets/demo-js/function.js
+0 4 7954892334483844464 10696 0 0
+/wp-content/themes/vidoco-theme/assets/alophone/css/callnow.css
+0 4 7954892334483844464 6156 0 0
+/wp-content/themes/vidoco-theme/assets/modalvideo/js/jquery-modal-video.min.js
+0 4 26442592 29292 0 0
+/wp-content/themes/vidoco-theme/assets/jquery/jquery-ui.min.js
+0 4 7954892334483844464 1014720 0 0
+/wp-content/themes/vidoco-theme/assets/bootstrap-4/css/bootstrap.min.css
+0 4 26446768 612728 0 0
+/zaproduct-sitemap.xml
+0 1 26423360 3459 0 0
+/wp-content/themes/vidoco-theme/assets/owlcarousel/owl.carousel.min.css
+0 3 7954892334483844464 8823 0 0
+/robots.txt
+0 4 26437568 268 0 0
+/wp-content/themes/vidoco-theme/assets/animated/animate-3.5.2.css
+0 3 7954892334483844464 50886 0 0
+/page-sitemap.xml
+0 1 26417280 972 0 0
+/wp-cron.php
+0 4 26462496 0 4 3
+/post_tag-sitemap.xml
+0 1 26417168 1109 0 0
+/wp-content/themes/vidoco-theme/assets/wow/wow.min.js
+0 4 26441920 19420 0 0
+/wp-content/themes/vidoco-theme/assets/owlcarousel/owl.theme.default.min.css
+0 4 26436064 4140 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-71-23.googlebot.com
+0 3 2 21189 1 1561947692
+-
+fetcher7-6.go.mail.ru
+0 1 1 23023 1 1561942585
+/
+137.117.178.120
+0 13 13 5538 1 1561947793
+/xmlrpc.php
+msnbot-40-77-252-88.search.msn.com
+0 1 1 170420 0 0
+-
+40.77.196.167
+0 23 23 686288 0 0
+-
+msnbot-40-77-188-64.search.msn.com
+0 1 1 170760 0 0
+-
+msnbot-40-77-188-129.search.msn.com
+0 1 1 170420 0 0
+-
+91.98.103.46.pol.ir
+0 9 3 9363 3 1561943343
+/wp-login.php
+msnbot-157-55-39-200.search.msn.com
+0 27 27 1386758 0 0
+-
+167.99.118.194
+0 10 3 41621 1 1561939539
+-
+msnbot-40-77-195-67.search.msn.com
+0 1 1 170760 0 0
+-
+fetcher7-1.go.mail.ru
+0 1 1 67 0 0
+-
+216.10.250.5
+0 140 64 423693 1 1561949911
+/
+msnbot-40-77-190-198.search.msn.com
+0 1 1 170420 0 0
+-
+msnbot-157-55-39-73.search.msn.com
+0 1 1 30566 1 1561942106
+/chuyen-muc-album/album/
+static.vnpt.vn
+0 4 4 0 4 1561952093
+/wp-cron.php
+msnbot-207-46-13-186.search.msn.com
+0 1 1 29408 1 1561942557
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-5/
+msnbot-157-55-39-194.search.msn.com
+0 22 22 739678 0 0
+-
+msnbot-40-77-167-224.search.msn.com
+0 3 3 88224 1 1561942563
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-3/
+82.97.238.35.bc.googleusercontent.com
+0 1 0 0 1 1561951753
+-
+23.247.81.42
+0 1 0 0 0 0
+-
+31-202-101-40-kh.maxnet.ua
+0 6 0 42 1 1561948001
+/
+msnbot-40-77-188-132.search.msn.com
+0 1 1 170760 0 0
+-
+crawl18.bl.semrush.com
+0 1 0 18844 1 1561952096
+-
+193.106.30.98
+0 1 0 18913 1 1561943186
+-
+msnbot-40-77-167-57.search.msn.com
+0 29 28 1345463 1 1561945766
+-
+crawl7.bl.semrush.com
+0 1 1 67 0 0
+-
+40.77.196.168
+0 3 3 100343 0 0
+-
+sg2plcpnl0257.prod.sin2.secureserver.net
+0 10 3 41621 1 1561939479
+-
+msnbot-157-55-39-55.search.msn.com
+0 30 28 935601 2 1561946618
+-
+crawl-66-249-71-24.googlebot.com
+0 3 2 32835 2 1561942791
+/loai-san-pham/san-pham/feed/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-71-23.googlebot.com
+0 3 2 21189 1 1561947692
+-
+fetcher7-6.go.mail.ru
+0 1 1 23023 1 1561942585
+/
+137.117.178.120
+0 13 13 5538 1 1561947793
+/xmlrpc.php
+msnbot-40-77-252-88.search.msn.com
+0 1 1 170420 0 0
+-
+40.77.196.167
+0 23 23 686288 0 0
+-
+msnbot-40-77-188-64.search.msn.com
+0 1 1 170760 0 0
+-
+msnbot-40-77-188-129.search.msn.com
+0 1 1 170420 0 0
+-
+91.98.103.46.pol.ir
+0 9 3 9363 3 1561943343
+/wp-login.php
+msnbot-157-55-39-200.search.msn.com
+0 27 27 1386758 0 0
+-
+167.99.118.194
+0 10 3 41621 1 1561939539
+-
+msnbot-40-77-195-67.search.msn.com
+0 1 1 170760 0 0
+-
+fetcher7-1.go.mail.ru
+0 1 1 67 0 0
+-
+216.10.250.5
+0 140 64 423693 1 1561949911
+/
+msnbot-40-77-190-198.search.msn.com
+0 1 1 170420 0 0
+-
+msnbot-157-55-39-73.search.msn.com
+0 1 1 30566 1 1561942106
+/chuyen-muc-album/album/
+static.vnpt.vn
+0 4 4 0 4 1561952093
+/wp-cron.php
+msnbot-207-46-13-186.search.msn.com
+0 1 1 29408 1 1561942557
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-5/
+msnbot-157-55-39-194.search.msn.com
+0 22 22 739678 0 0
+-
+msnbot-40-77-167-224.search.msn.com
+0 3 3 88224 1 1561942563
+/album/album-anh-ky-niem-sinh-nhat-vidoco-lan-3/
+82.97.238.35.bc.googleusercontent.com
+0 1 0 0 1 1561951753
+-
+23.247.81.42
+0 1 0 0 0 0
+-
+31-202-101-40-kh.maxnet.ua
+0 6 0 42 1 1561948001
+/
+msnbot-40-77-188-132.search.msn.com
+0 1 1 170760 0 0
+-
+crawl18.bl.semrush.com
+0 1 0 18844 1 1561952096
+-
+193.106.30.98
+0 1 0 18913 1 1561943186
+-
+msnbot-40-77-167-57.search.msn.com
+0 29 28 1345463 1 1561945766
+-
+crawl7.bl.semrush.com
+0 1 1 67 0 0
+-
+40.77.196.168
+0 3 3 100343 0 0
+-
+sg2plcpnl0257.prod.sin2.secureserver.net
+0 10 3 41621 1 1561939479
+-
+msnbot-157-55-39-55.search.msn.com
+0 30 28 935601 2 1561946618
+-
+crawl-66-249-71-24.googlebot.com
+0 3 2 32835 2 1561942791
+/loai-san-pham/san-pham/feed/
+# End Of Table - sites (daily)
+# -referrers- 
+http://lethucvinh.com/join
+0 1
+http://lethucvinh.com/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.css
+0 1
+http://lethucvinh.com///wp-json/wp/v2/users/
+0 2
+http://lethucvinh.com/wp-cron.php
+0 3
+- (Direct Request)
+0 306
+https://lethucvinh.com///
+0 4
+http://lethucvinh.com///
+0 4
+http://site.ru
+0 9
+http://lethucvinh.com/profile/register
+0 1
+http://lethucvinh.com
+0 7
+https://lethucvinh.com/wp-cron.php
+0 1
+http://lethucvinh.com/wp-json/siteground-optimizer/v1/enable-option
+0 1
+https://lethucvinh.com/wp-login.php
+0 4
+http://lethucvinh.com/wp-login.php
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 32
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 108
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 113
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 1
+Go-http-client/1.1
+0 3
+Mozilla/5.0 (compatible; SemrushBot/3~bl; +http://www.semrush.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0 Paros/3.2.13
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 29
+WordPress/5.2.2; https://lethucvinh.com
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 20
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 9
+Chrome 73.75 7|Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,61 @@
+.pan_search{
+   position: fixed;
+   top: 0px;
+   left: 0px;
+   width: 100%;
+   height: 100%;
+   background-color: rgba(0,0,0,0.8);
+   display: none;
+   z-index: 3;
+   .pan_close{
+      position: absolute;
+      top: 0;
+      right:10px;
+      a{
+         color: #ffffff;
+         font-family: $f_bold;
+         font-size: 30px;
+      }
+   }
+   .frmsearcharticle{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 800px;
+      height: 80px;
+      margin-top: -40px;
+      margin-left: -400px;
+      border-top: 1px solid #e1e1e1;
+      border-bottom:1px solid #e1e1e1;
+      .vatimkiem{
+         width: 90%;
+         height: 100%;
+         .txt_search{
+            color: #fff;
+            background: transparent;
+            border: none;
+            font-size: 40px;
+            font-family: $f_regular;
+            font-weight: 300;
+            text-align: center;
+            outline: none;
+            padding: 10px;
+            width: 100%;
+            height: 100%;
+
+         }
+      }
+      .btnsearch{
+         position: absolute;
+         right: 15px;
+         top: 0;
+         height: 100%;
+         a{
+            display: flex;
+            height: 100%;
+            align-items:center;
+            justify-content:center;
+         }
+      }
+   }
+}

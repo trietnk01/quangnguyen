@@ -1,0 +1,34 @@
+.page-numbers{
+   list-style: none;
+   margin-bottom: 0;
+   margin-left: 0px;
+   padding-left: 0;
+   li{
+      display: inline-block;
+      margin-right: 5px;
+      span{
+         display: block;
+         &.current{
+            background-color:$mau_1;
+            padding: 2px 11px;
+            border-radius: 0px;
+            color: #ffffff;
+         }
+      }
+      a{
+         display: block;
+         background-color:#d8d8d8;
+         padding: 2px 10px;
+         border-radius: 0px;
+         color: $mau_1;
+         @include p-web(transition , all 0.5s);
+         &:hover{
+            background-color:$mau_1;
+            color: #ffffff;
+         }
+      }
+      &:last-child{
+         margin-right: 0;
+      }
+   }
+}

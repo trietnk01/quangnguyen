@@ -1,0 +1,24 @@
+.bg-light{
+	background-color: #137a5cdb !important;
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	.navbar-toggler{
+		margin-top: 0px;
+		margin-left: 10px;
+		border:0px solid #009fe4;
+		border-radius:0px;
+		outline: 0;
+		.navbar-toggler-icon{
+			background-image:url('../images/nav-line.png');
+		}
+	}	
+	.navbar-collapse{
+		background-color:transparent; ;
+		margin-top:0px;
+	}
+	.sub-menu{
+		list-style: none;
+	}
+}

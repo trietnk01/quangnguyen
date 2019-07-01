@@ -1,0 +1,40 @@
+.tab {
+ overflow: hidden;
+ background: transparent;
+ position: relative;
+ z-index: 2;
+ button {
+   float: left;
+   border: none;
+   outline: none;
+   cursor: pointer;
+   padding:8px 10px;
+   transition: 0.3s;
+   text-transform: uppercase;
+   font-family: $f_bold;
+   background: transparent;
+   margin-right: 0;
+   font-size: 11px;
+   &:hover{
+    background: transparent;
+  }
+  &.active{
+   background-color: #fff;
+   border-left: 1px solid $mau_1;
+   border-right: 1px solid $mau_1;
+   border-top: 1px solid $mau_1;
+ }
+}
+}
+.tabcontent {
+  display: none;
+  padding: 6px 0px;
+  border: 1px solid $mau_1;
+  position: relative;
+  left: 0;
+  top: -1px;
+  width: 100%;
+  padding:10px;
+  z-index: 1;
+  text-align: justify;
+}
